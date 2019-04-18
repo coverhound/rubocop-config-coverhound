@@ -46,6 +46,6 @@ all projects.
 
 ## Versioning
 
-We are pegging our major versions to Rubocop minor versions. Rubop patch
+We are pegging our major versions to Rubocop minor versions. Rubocop patch
 versions would indicate a minor version bump for us. A patch for us would
 indicate a change only for us, not in our upstream dependencies.
