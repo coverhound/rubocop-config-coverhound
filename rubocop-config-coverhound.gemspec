@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "rubocop-config-coverhound"
-  spec.version       = "3.0.0"
+  spec.version       = "3.1.0"
   spec.authors       = ["Bernardo Farah"]
   spec.email         = ["ber@bernardo.me"]
   spec.licenses      = ["MIT"]
