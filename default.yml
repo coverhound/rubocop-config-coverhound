@@ -109,7 +109,7 @@ Style/ClassAndModuleChildren:
 # We reserve code comments for crazy code. As we don't write libraries,
 # our code does not have documentation
 Style/Documentation:
-  Enabled: false
+  Enabled: true
 
 # We're ok with using double negation
 Style/DoubleNegation:
